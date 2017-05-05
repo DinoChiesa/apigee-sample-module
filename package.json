@@ -1,0 +1,19 @@
+{
+  "name": "apigee-sample-module",
+  "version": "0.1.1",
+  "description": "A sample nodejs module for conducting tests in Apigee Edge.",
+  "main" : "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DinoChiesa/apigee-sample-module.git"
+  },
+  "keywords": [
+    "apigee",
+    "edge"
+  ],
+  "author": "dchiesa@google.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "sprintf-js": "^1.0.3"
+  }
+}
